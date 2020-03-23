@@ -1,0 +1,11 @@
+D:\.NET Avansat\Lab1\obj\Debug\netcoreapp2.1\Lab1.csprojAssemblyReference.cache
+D:\.NET Avansat\Lab1\obj\Debug\netcoreapp2.1\Lab1.csproj.CoreCompileInputs.cache
+D:\.NET Avansat\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfoInputs.cache
+D:\.NET Avansat\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfo.cs
+D:\.NET Avansat\Lab1\bin\Debug\netcoreapp2.1\Lab1.deps.json
+D:\.NET Avansat\Lab1\bin\Debug\netcoreapp2.1\Lab1.runtimeconfig.json
+D:\.NET Avansat\Lab1\bin\Debug\netcoreapp2.1\Lab1.runtimeconfig.dev.json
+D:\.NET Avansat\Lab1\bin\Debug\netcoreapp2.1\Lab1.dll
+D:\.NET Avansat\Lab1\bin\Debug\netcoreapp2.1\Lab1.pdb
+D:\.NET Avansat\Lab1\obj\Debug\netcoreapp2.1\Lab1.dll
+D:\.NET Avansat\Lab1\obj\Debug\netcoreapp2.1\Lab1.pdb
